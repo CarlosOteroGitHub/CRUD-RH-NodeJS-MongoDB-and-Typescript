@@ -1,0 +1,42 @@
+========================================================== COMANDOS ==========================================================
+
+° npm init -y: Comando utilizado para iniciar un proyecto NodeJS.
+
+° npm install express --save: Comando utilizado para instalar la última versión de Express.
+
+° npm install -g express-generator: Comando utilizado para montar la estructura de un proyecto de Node JS.
+
+° npm install ejs: Comando utilizado para instalar la última versión del software de plantillas Easy Java Simulations.
+
+° npm install typescript -D: Comando utilizado para instalar la última versión de Typescript.
+
+° npx tsc --init: Comando utilizado para crear el archivo de configuración de Typescript.
+
+° npm install @types/express -D: Comando utilizado para instalar la última versión de la libreria Typescript-Express.
+
+° npm install ts-node -D: Comando utilizado para que nodemon interprete código de Typescript.
+
+° npm install nodemon -g: Comando utilizado para instalar la última versión de Nodemon.
+
+° npm install path: Comando utilizado para instalar la última versión de Path.
+
+° npm install mongoose: Comando utilizado para instalar las dependencias de conexión con el SGBD MongoDB.
+
+° npm install body-parser: Comando utilizado para instalar la última versión de body-parser. Útil para la recepción de datos.
+
+° npm install cookie-parser: Comando utilizado para instalar la última versión de cookie-parser.
+
+° npm install morgan: Comando utilizado para instalar la última versión del middleware morgan.
+
+° npm install dotenv: Comando utilizado para administrar las variables de entorno.
+
+° mongod: Comando para iniciar el servidor de MongoDB (Ejecute el comando en otra terminal de comandos).
+
+° npm install: Comando utilizado para descargar las dependencias requeridas en el proyecto.
+
+° npx tsc: Comando utilizado para convertir el código de Typescript en Javascript dentro de la carpeta "dist"
+
+° npm run dev: Comando utilizado para correr el servidor de Node JS mediante nodemon. El servidor corre por defecto en el navegador con la dirección localhost:3000
+
+
+NOTA: Antes de correr el servidor, ingrese en consola el siguiente comando: npx tsc
